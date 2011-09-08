@@ -76,7 +76,8 @@ group7:
     [spher. closed,move,spherclosed],
     [spher. open,move,spheropen],
     [point,move,point],
-    [fist,move,fist]]
+    [fist,move,fist],
+    [cooler,move,cooler]]
 group8:
   group_name: eyes
   component_name: head
